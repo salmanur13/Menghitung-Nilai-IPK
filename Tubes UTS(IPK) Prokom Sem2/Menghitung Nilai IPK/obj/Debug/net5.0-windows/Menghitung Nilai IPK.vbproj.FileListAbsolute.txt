@@ -1,0 +1,72 @@
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.exe
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.deps.json
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.json
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.dev.json
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbprojAssemblyReference.cache
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung_Nilai_IPK.Form1.resources
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.GenerateResource.cache
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfoInputs.cache
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfo.vb
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.CoreCompileInputs.cache
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+D:\VS\Matkul Prokom\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.genruntimeconfig.cache
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.exe
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.deps.json
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.json
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.dev.json
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbprojAssemblyReference.cache
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung_Nilai_IPK.Form1.resources
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.GenerateResource.cache
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfoInputs.cache
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfo.vb
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+C:\Users\Daniel Siregar\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.genruntimeconfig.cache
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.exe
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.deps.json
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.json
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.dev.json
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbprojAssemblyReference.cache
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung_Nilai_IPK.Form1.resources
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.GenerateResource.cache
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfo.vb
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+C:\Users\HP\Downloads\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.genruntimeconfig.cache
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.exe
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.deps.json
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.json
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.runtimeconfig.dev.json
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\bin\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbprojAssemblyReference.cache
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung_Nilai_IPK.Form1.resources
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.GenerateResource.cache
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfoInputs.cache
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.AssemblyInfo.vb
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.vbproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.dll
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\ref\Menghitung Nilai IPK.dll
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.pdb
+C:\Users\user.DESKTOP-77RV9K1\source\repos\Tubes UTS Prokom Sem2\Menghitung Nilai IPK\obj\Debug\net5.0-windows\Menghitung Nilai IPK.genruntimeconfig.cache
